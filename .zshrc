@@ -61,7 +61,7 @@ unsetopt menu_complete      # no auto selection for completion menu
 # ---------------------------------------------------------
 # exports
 # ---------------------------------------------------------
-export PATH= !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+# export PATH=
 
 export PAGER='less'
 
